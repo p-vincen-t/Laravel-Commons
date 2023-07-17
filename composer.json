@@ -1,0 +1,19 @@
+{
+    "name": "p-vincen-t/commons",
+    "description": "Common Utils through my laravel development projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PVincenT\\Commons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter Vincent",
+            "email": "dev4vin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
